@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'event-test',
+  srcs = [
+    'event_test.cpp',
+  ],
+  deps = [
+    '//:sync',
+  ],
+)
