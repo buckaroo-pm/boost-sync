@@ -86,7 +86,7 @@ revision = "bb4226c58e17f8880779f19559a50e497f2bfcba"
 
 [lock."github.com/buckaroo-pm/boost-container_hash"]
 versions = [ "branch=master" ]
-revision = "ddd9a887f1f0253ded4455d455b3c54228067b74"
+revision = "0b9332d4df895e1077bab8ee34473a8882bfedf5"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "branch=master" ]
@@ -182,7 +182,7 @@ revision = "7a75e06a78e0481cb636412a62764f628ec8e56b"
 
 [lock."github.com/buckaroo-pm/boost-regex"]
 versions = [ "branch=master" ]
-revision = "4ff94fc09b98f94f31e9fec6bb9312ec0a0f724a"
+revision = "1db2ae17e5e5b188688bbab0fca61731b4d9d6d8"
 
 [lock."github.com/buckaroo-pm/boost-serialization"]
 versions = [ "branch=master" ]
